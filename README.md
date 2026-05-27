@@ -190,7 +190,6 @@ liangebodwo-mirror/
 | Skill | 描述 |
 |---|---|
 | [color_human](https://github.com/huomingyao/color_human) | 性格色彩分析 |
-| [nuwa-skill](https://github.com/alchaincyf/nuwa-skill) | 女娲 · 思维蒸馏 |
 
 ---
 
